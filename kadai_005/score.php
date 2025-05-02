@@ -18,7 +18,7 @@
       $score9 = 30;
       $score10 = 60;
 
-      echo $total = $score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score7 + $score8 + $score9 + $score10;
+      echo $total = $score1 + $score2 + $score3 + $score4 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10;
       echo '<br>';
       echo $total / 10;
 
